@@ -1,0 +1,13 @@
+C:\Users\Huy\source\repos\PVHuy\PVHuy\bin\Debug\netcoreapp3.1\PVHuy.exe
+C:\Users\Huy\source\repos\PVHuy\PVHuy\bin\Debug\netcoreapp3.1\PVHuy.deps.json
+C:\Users\Huy\source\repos\PVHuy\PVHuy\bin\Debug\netcoreapp3.1\PVHuy.runtimeconfig.json
+C:\Users\Huy\source\repos\PVHuy\PVHuy\bin\Debug\netcoreapp3.1\PVHuy.runtimeconfig.dev.json
+C:\Users\Huy\source\repos\PVHuy\PVHuy\bin\Debug\netcoreapp3.1\PVHuy.dll
+C:\Users\Huy\source\repos\PVHuy\PVHuy\bin\Debug\netcoreapp3.1\PVHuy.pdb
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\PVHuy.csproj.AssemblyReference.cache
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\PVHuy.AssemblyInfoInputs.cache
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\PVHuy.AssemblyInfo.cs
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\PVHuy.csproj.CoreCompileInputs.cache
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\PVHuy.dll
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\PVHuy.pdb
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\PVHuy.genruntimeconfig.cache

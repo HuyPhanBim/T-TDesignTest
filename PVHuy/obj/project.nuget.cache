@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NtE56vvOrw+C6MYaiO7Ft50s3Udk+zqJ2IvAOYq6Jfk6/46wnpZdBkSFF42S8QWLOItX8t4v/Ge8XHCboQnBkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Huy\\source\\repos\\PVHuy\\PVHuy\\Question1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

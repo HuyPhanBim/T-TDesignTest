@@ -1,0 +1,8 @@
+C:\Users\Huy\source\repos\PVHuy\Question2\Question2_2020\bin\Debug\Question2_2020.dll
+C:\Users\Huy\source\repos\PVHuy\Question2\Question2_2020\bin\Debug\Question2_2020.pdb
+C:\Users\Huy\source\repos\PVHuy\Question2\Question2_2020\bin\Debug\AdWindows.dll
+C:\Users\Huy\source\repos\PVHuy\Question2\Question2_2020\obj\Debug\Question2.csproj.AssemblyReference.cache
+C:\Users\Huy\source\repos\PVHuy\Question2\Question2_2020\obj\Debug\Question2.csproj.CoreCompileInputs.cache
+C:\Users\Huy\source\repos\PVHuy\Question2\Question2_2020\obj\Debug\Question2.csproj.CopyComplete
+C:\Users\Huy\source\repos\PVHuy\Question2\Question2_2020\obj\Debug\Question2_2020.dll
+C:\Users\Huy\source\repos\PVHuy\Question2\Question2_2020\obj\Debug\Question2_2020.pdb

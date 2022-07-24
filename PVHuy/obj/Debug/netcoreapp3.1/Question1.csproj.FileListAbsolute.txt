@@ -1,0 +1,13 @@
+C:\Users\Huy\source\repos\PVHuy\PVHuy\bin\Debug\netcoreapp3.1\Question1.exe
+C:\Users\Huy\source\repos\PVHuy\PVHuy\bin\Debug\netcoreapp3.1\Question1.deps.json
+C:\Users\Huy\source\repos\PVHuy\PVHuy\bin\Debug\netcoreapp3.1\Question1.runtimeconfig.json
+C:\Users\Huy\source\repos\PVHuy\PVHuy\bin\Debug\netcoreapp3.1\Question1.runtimeconfig.dev.json
+C:\Users\Huy\source\repos\PVHuy\PVHuy\bin\Debug\netcoreapp3.1\Question1.dll
+C:\Users\Huy\source\repos\PVHuy\PVHuy\bin\Debug\netcoreapp3.1\Question1.pdb
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\Question1.csproj.AssemblyReference.cache
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\Question1.AssemblyInfoInputs.cache
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\Question1.AssemblyInfo.cs
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\Question1.csproj.CoreCompileInputs.cache
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\Question1.dll
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\Question1.pdb
+C:\Users\Huy\source\repos\PVHuy\PVHuy\obj\Debug\netcoreapp3.1\Question1.genruntimeconfig.cache
